@@ -22,8 +22,7 @@
     "severityThreshold": "high"
   },
   "issueSettings": {
-    "minSeverityLevel": "NONE",
-    "issueType": "DEPENDENCY"
+    "minSeverityLevel": "NONE"
   },
   "remediateSettings": {
     "workflowRules": {
