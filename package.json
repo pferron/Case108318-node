@@ -1,0 +1,15 @@
+{
+	"name": "ece-npm-sample",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Ece Akturk",
+	"license": "ISC",
+	"dependencies": {
+		"mocha": "5.2.0"
+	}
+}
