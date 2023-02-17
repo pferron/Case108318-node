@@ -10,6 +10,6 @@
 	"author": "Ece Akturk",
 	"license": "ISC",
 	"dependencies": {
-		"serialize-javascript": "1.6.0"
+		"serialize-javascript": "2.1.1"
 	}
 }
